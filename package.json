@@ -1,0 +1,26 @@
+{
+  "name": "mini-webapck",
+  "version": "1.0.0",
+  "description": "<!--\r  * @Descripttion: \r  * @version: \r  * @Author: Charles Guo\r  * @Date: 2021-11-22 23:05:36\r  * @LastEditors: Charles Guo\r  * @LastEditTime: 2021-11-22 23:05:40\r -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CharlesGC/mini-webapck.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CharlesGC/mini-webapck/issues"
+  },
+  "homepage": "https://github.com/CharlesGC/mini-webapck#readme",
+  "devDependencies": {
+    "@babel/core": "^7.16.0",
+    "@babel/parser": "^7.16.4",
+    "@babel/preset-env": "^7.16.4",
+    "@babel/traverse": "^7.16.3"
+  }
+}
